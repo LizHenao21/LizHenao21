@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=220&section=header&text=Lizeth&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Datos%20%C2%B7%20Automatizaci%C3%B3n%20%C2%B7%20Ingenier%C3%ADa&descSize=18&descAlignY=58" width="100%" alt="Encabezado" />
 
 <a href="https://github.com/LizHenao21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=640&height=40&lines=Ingeniería+Industrial+y+de+Sistema%C3%ADs;Construyo+dashboards+y+herramientas+de+datos;Python+%C2%B7+R+Shiny+%C2%B7+Power+Platform;Aprendiendo+y+mejorando+cada+d%C3%ADa" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=640&height=40&lines=Ingenier%C3%ADa+Industrial+y+de+Sistemas;Construyo+dashboards+y+herramientas+de+datos;Python+%C2%B7+R+Shiny+%C2%B7+Power+Platform;Aprendiendo+y+mejorando+cada+d%C3%ADa" alt="Texto animado" />
 </a>
 
 <br/>
